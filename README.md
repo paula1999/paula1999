@@ -1,107 +1,40 @@
-<h1 align="center">Hi 👋, I'm Paula. </h1>
-<h3 align="center">Data Scientist | AI Gen Developer</h3>
+<div align="center">
+  
+# Hi 👋, I'm Paula
 
-- 🌱 I’m continuously developing my skills in **Artificial Intelligence**.
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/paula1999](https://github.com/paula1999)
+### **Data Scientist & AI Gen Developer**
 
-- 💬 Ask me about **python, AI/ML, Gen AI**
-
-
-## 📫 Contact
-
-- Email: [📧](mailto:pvillanunez@gmail.com)
-- LinkedIn: <a href="https://linkedin.com/in/paulavn99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="politeles" height="30" width="40" /></a>
-- GitHub: [@paula1999](https://github.com/paula1999)
+<p align="right">
+  <a href="https://www.linkedin.com/in/paula1999"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pvillanunez@gmail.com"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logoColor=white" /></a>
+</p>
 
 
 ## 🎓 Education
 
-<p align="left">
-<ul>
-  <li>Master's in Artificial Intelligence</li>
-  <li>Bachelor's Degree in Computer Science</li>
-  <li>Bachelor's Degree in Mathematics</li>
-</ul>
+* **Master's** | Artificial Intelligence
+* **Bachelor's Degree** | Computer Science
+* **Bachelor's Degree** | Mathematics
 
 
 ## 🏅 Certifications
 
-<p align="left">
-<ul>
-  <li>AWS Machine Learning Engineer Associate</li>
-  <li>Microsoft Azure AI Engineer Associate</li>
-  <li>Microsoft Azure Data Scientist Associate</li>
-</ul>
+* **AWS** | Machine Learning Engineer Associate
+* **Microsoft Azure** | AI Engineer Associate
+* **Microsoft Azure** | Data Scientist Associate
 
 
-## 💻 Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left"> 
-  <ul>
-    <li>
-      <strong>Cloud: </strong>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-      <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
-      <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-    </li>
-
-  <li>
-      <strong>Data Science & Machine Learning: </strong>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-      <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-      <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-      <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/> </a> 
-      <a href="https://www.databricks.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="databricks" width="40" height="40"/> </a> 
-  </li>
-  
-  
-  <li>
-      <strong>MLOps, DevOps & Collaboration: </strong>
-      <a href="https://github.com/"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/> </a>
-      <a href="https://about.gitlab.com/"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40"/> </a> 
-      <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> </a>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-      <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-      <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-      <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  </li>
-
-  
-  <li>
-      <strong>Databases & Storage: </strong>
-      <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" alt="snowflake" width="40" height="40"/> </a> 
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-      <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  </li>
-
-
-  <li>
-    <strong>Data Visualization: </strong>
-    <a href="https://powerbi.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" width="40"/></a>
-  </li>
-
-  
-  <li>
-    <strong>APIs & Backend: </strong>
-      <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  
-      <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  </li>
-
-  
-  <li>
-      <strong>Web & UI: </strong>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  </li>
-  
-  </ul>
-</p>
+| Category | Tools |
+| :--- | :--- |
+| **Data Science & ML** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=flat&logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) |
+| **GenAI** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-D1D1D1?style=flat&logo=anthropic&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat&logo=googlegems&logoColor=white) ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=flat) ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat&logo=target&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-272045?style=flat&logo=pinecone&logoColor=white) ![Chroma](https://img.shields.io/badge/ChromaDB-3178C6?style=flat&logo=googlecloud&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=flat&logo=microsoft-azure&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) |
+| **MLOps & DevOps** | ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=flat&logo=apache-kafka&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) |
+| **Databases** | ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) |
+| **Visualization** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=microsoftpowerbi&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-444444?style=flat&logo=python&logoColor=white) |
+| **APIs & Backend** | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Web & Design** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
