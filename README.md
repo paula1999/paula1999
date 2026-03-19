@@ -7,7 +7,7 @@
 ### **Data Scientist & AI Gen Developer**
 
 <p align="right">
-  <a href="https://www.linkedin.com/in/paula1999"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/paulavn99"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pvillanunez@gmail.com"><img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logoColor=white" /></a>
 </p>
 
